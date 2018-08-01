@@ -1,4 +1,4 @@
-*{
+{
   "name": "通用Web代理 (Node Unblocker)",
   "description": "基于Node-Unblocker的Web代理，轻松翻墙看世界（去轮轮链接版）",
   "image": "heroku/nodejs",
